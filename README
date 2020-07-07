@@ -1,0 +1,36 @@
+                                      
+                                █▀█ ▄▀█ █▀ █▀ █▀▀ █▀█
+                                █▀▀ █▀█ ▄█ ▄█ ██▄ █▀▄
+-------------------------------------------------------------------------------------------
+                              Random password generator
+Passer is a python based script that generate rand0m password. It work
+on termux or rooted or non-rooted android phones. this is also works in termux
+
+
+[+]instalation and usage
+
+$ apt upade
+
+$ apt upgrade
+
+$ pkg install python
+
+$ pkg install git
+
+$ git clone 
+
+$ cd passer
+
+$ ls
+
+python passer.py
+
+ and use the tool
+
+ Create a strong password
+
+[+] WARNING
+
+This tool is only for educational purpose. If you use this tool for other purposes except education
+ we will not be responsible in such cases.
+
